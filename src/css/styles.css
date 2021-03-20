@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+#gameCanvas {
+    background: #eee;
+    display: block;
+    margin: 0 2rem;
+}
+
+#gameCanvas2 {
+    background: #eee;
+    display: block;
+    margin: 0 2rem;
+}
